@@ -37,7 +37,7 @@ These skills improved my understanding of backend development and systems progra
 
 I completed the course and earned a certificate! 🎉
 **Certificate link:**
-👉 *[https://www.udemy.com/certificate/UC-0899400e-6116-4f15-81b9-c82cfedf146e/]*
+👉 *[Udemy Certificate](https://udemy-certificate.s3.amazonaws.com/image/UC-0899400e-6116-4f15-81b9-c82cfedf146e.jpg?v=1771516461000)*
 
 ---
 
